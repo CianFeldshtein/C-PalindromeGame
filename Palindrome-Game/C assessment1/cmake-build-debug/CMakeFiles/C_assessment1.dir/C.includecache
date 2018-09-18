@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cian/Dropbox/CIT YR2 SEM2/C Programming/C assessment1/Useful.h
+
+C:/Users/Cian/Dropbox/CIT YR2 SEM2/C Programming/C assessment1/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+pal.h
+C:/Users/Cian/Dropbox/CIT YR2 SEM2/C Programming/C assessment1/pal.h
+
+C:/Users/Cian/Dropbox/CIT YR2 SEM2/C Programming/C assessment1/pal.c
+stdio.h
+-
+mem.h
+-
+Useful.h
+C:/Users/Cian/Dropbox/CIT YR2 SEM2/C Programming/C assessment1/Useful.h
+
+C:/Users/Cian/Dropbox/CIT YR2 SEM2/C Programming/C assessment1/pal.h
+Useful.h
+C:/Users/Cian/Dropbox/CIT YR2 SEM2/C Programming/C assessment1/Useful.h
+
+C:/Users/Cian/Dropbox/CIT YR2 SEM2/C Programming/C assessment1/useful.c
+stdio.h
+-
+
